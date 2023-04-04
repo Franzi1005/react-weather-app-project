@@ -4,6 +4,7 @@ export default function Weather() {
       <div className="container">
         <form>
           <input
+            autoFocus
             type="text"
             className="form-control"
             placeholder="Type a city..."
