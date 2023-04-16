@@ -38,8 +38,6 @@ export default function FormattedDate(props) {
   }
 
   let year = props.date.getFullYear();
-  console.log(year);
-
   return (
     <ul>
       <li>

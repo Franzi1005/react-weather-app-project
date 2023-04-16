@@ -1,0 +1,11 @@
+.WeatherForecast {
+  margin: 24px;
+}
+
+.max-temperature {
+  font-weight: bold;
+}
+
+.dailyForecast {
+  text-align: center;
+}
